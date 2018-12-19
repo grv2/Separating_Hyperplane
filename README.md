@@ -1,7 +1,7 @@
 # Separating_Hyperplane
-Separating Hyperplane 
-creating random dataset and 3D hyperplane separating 
-coding ......
+Separating Hyperplane. 
+creating random dataset and 3D hyperplane separating. 
+coding Starts From Next line.
 import numpy as np
 from sklearn.svm import SVR
 from mpl_toolkits.mplot3d import axes3d
